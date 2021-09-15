@@ -1,0 +1,91 @@
+body{
+    background-color: #f1f1f1;
+}
+.sm-header{
+    background-color: white;
+    height: 3em;
+    justify-content: space-between;
+    align-items: center;
+}
+.sm-header .slider button{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin: 0;
+    border: none;
+}
+.chervon{
+    text-align: right;
+    padding-right: 1em;
+}
+.chervon i{
+    margin-left: 1em;
+    color: #a79a9a;
+}
+
+.header nav{
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
+main{
+    margin: 2em 0;
+}
+.img{
+    margin: 0;
+    padding: 0;
+}
+.img img{
+    max-width: 100%;
+    border-radius: 50%;
+    margin: 0;
+    padding: 0;
+}
+.text{
+    padding-left: 2em;
+}
+.text h1{
+    font-size: 5em;
+    color: #3b3737;
+}
+.text h3{
+    font-size: 3em;
+    color: #625858;
+}
+.text .row{
+    justify-content: space-evenly;
+    margin: 2em 0;
+}
+.text .row .item{
+    border-radius: 50%;
+    height: 11em;
+    width: 11em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.i1{
+    background-color: rgb(230, 63, 63);
+}
+.i2{
+    background-color: rgb(117, 223, 117);
+}
+.i3{
+    background-color: rgb(228, 228, 76);
+}
+footer{
+    margin:0;
+    margin-top: 2em;
+    background-color: rgb(216, 110, 110);
+}
+footer .container{
+    padding: 0;
+}
+.fa-3x{
+    color: rgb(59, 133, 139);
+}
+.text-area{
+    color: white;
+}
